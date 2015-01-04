@@ -1,0 +1,18 @@
+/*jslint browser: true*/
+/*global $, jQuery, alert*/
+
+
+$(document).ready(function () {
+	$('.list').mouseenter(function() {
+		$(this).animate({height: "+=10px"}, 200);
+		$(this).addClass("listconf");
+	});
+	$('.list').mouseleave(function() {
+		$(this).animate({height: "-=10px"}, 200);
+		$(this).removeClass("listconf");
+	});
+	$('.button').click(function() {
+		$('.wrw').fadeOut(2000);
+		
+	});
+});

@@ -1,10 +1,10 @@
 body
 {
-	background-color: #38352c;
+	background-color: black;
     height: 80em;
     width: 80em;
     margin-right: auto;
-    margin-left:auto;
+    margin-left: auto;
 }
 
 /*beginning of first container*/
@@ -20,16 +20,6 @@ body
 }
 /*end of the main container*/
 
-.mainnd
-{
-	margin-right: auto;
-	margin-left: auto;
-	background-color: #146a78;
-	width: 600px;
-	height: 200px;
-	border: 1px solid black;
-	border-radius: 10px;
-}
 
 .container2
 {

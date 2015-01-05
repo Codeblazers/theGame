@@ -3,20 +3,20 @@
 	background-image:url("techblue.jpg");
 	height: 63.2em;
 	width: 10em;
-	padding-top: 10px;
+	padding-top: .8em;
 	position: absolute;
 }
 
 /*li elements in the nav bar*/
 .list
 {
-	margin-top: 8em;
+	margin-top: 8.1em;
 	list-style: none;
 	height: 1.5em;
 	width: 6em;
 	background-color: black;
 	text-align: center;
-	padding-top: 3px;
+	padding-top: .5em;
 	border-radius: 10px;
 	font-family: Impact;
 	color: darkgray;
@@ -27,13 +27,13 @@
 
 .listconf
 {  
-   margin-top: 8em;
+    margin-top: 8.1em;
 	list-style: none;
 	height: 1.5em;
 	width: 6em;
 	background-color: black;
 	text-align: center;
-	padding-top: 3px;
+	padding-top: .5em;
 	border-radius: 10px;
 	font-family: Impact;
 	color: darkgray;

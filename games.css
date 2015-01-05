@@ -31,7 +31,8 @@ h1
     background-color: black;
     height: 80em;
     width: 80em;
-    margin-left: 17.8em;
+    margin-left: auto;
+    margin-right:auto;
 }
 
 .galleryCon
@@ -44,6 +45,7 @@ h1
     padding-top: 2em;
     margin-top: 2em;
     background-color: #474746;
+    border: 2px solid skyblue;
 }
 
 .gameGallery

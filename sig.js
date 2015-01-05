@@ -9,10 +9,16 @@ var main = function () {
 		$(this).removeClass("listconf");
 	});
     
+    var slide = ['.next', '.next2'];
+    var i = 0;
     $('.button').click(function () {
-        $('.wrw').fadeOut(1000);
-        $('.next').delay(1000).fadeIn(2000).addClass('wrw');
+        
+        
+       
+            
     });
+    
+    
 };
 
 $(document).ready(main);
